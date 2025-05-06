@@ -562,7 +562,7 @@ hash = "a740e00c1f8451767a0e07e228b931683151290a0728b2a4f44309f3a5449534"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "74bd4011ffe631831a4a7a6ebcec26248eade7cccaa2d6e6bc5db45e6bfedc1c"
+hash = "0bcb0587f837404973a2e4a904a58adb0eb3756e22457ef5ffb9a149c4863457"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1356,6 +1356,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/thirst-was-taken.pw.toml"
+hash = "e778c9b567b10ec23770955530f48814466c4d1616d8b1db0065645635495d08"
 metafile = true
 
 [[files]]
