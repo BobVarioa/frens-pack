@@ -790,6 +790,11 @@ hash = "3e339a6d4a830a05da9e13874b5243d8b0916fb0cc7078df11c3c17fd4a89141"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "1bd2a0c8cc2cd8a8db1698cfdfcb565e5399c6fcd954ae3452c619c401da1d7a"
 metafile = true
@@ -1000,6 +1005,11 @@ hash = "222af346b8936d3273ec3fa5ad56a4fe44ecacf65230523b306d21e7128ad57e"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -1007,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5404b593f53403b432c3a0a334f93f361ba6851c0ea7b21a83dc59d3fd66b931"
 metafile = true
 
 [[files]]
@@ -1020,6 +1035,11 @@ hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
 metafile = true
 
 [[files]]
+file = "mods/pal.pw.toml"
+hash = "9c3832ed95b11d4962823cc8db50f09c2f6d223c1d9b76c9160abced24aae19d"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "17c942a8654025bde22ffb51826ba59115c0928d0c9cbcd2470ae7b526b7d13b"
 metafile = true
@@ -1030,8 +1050,18 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "4bb50a4ca564fc09f72da50f8bce3bdd88ad28fd1453d7f54040d70590820647"
 metafile = true
 
 [[files]]
@@ -1092,6 +1122,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "4b174a66604f2cc1e4552018941662df6161451cbba460de8e411412a17598aa"
 metafile = true
 
 [[files]]
