@@ -765,10 +765,6 @@ file = "config/watut-common.toml"
 hash = "323737c2bd12d1f45b3f7f110960d13c89a7048a58176d36f144948df340b02b"
 
 [[files]]
-file = "config/watut-item-arm-adjustments.json"
-hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
-
-[[files]]
 file = "config/watut-server.toml"
 hash = "8a74804ab6b75021a2aca7039c6c1feb030208e4d635d2954ac9970d51c34847"
 
