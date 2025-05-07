@@ -24,3 +24,4 @@ coremods
 mods/.index
 mods/.connector
 mods/*.jar
+.pw-install

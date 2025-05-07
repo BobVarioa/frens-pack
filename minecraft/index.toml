@@ -497,6 +497,14 @@ file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
+file = "config/copycats-client.toml"
+hash = "70a02fe59453e5b8ad07512adf5feb85fff05bfc3c615349f13d429496f9f7ea"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "621a81b4af985c6995e125a9f7fdf175378202f3341ada18c7a59bf9a03230e1"
+
+[[files]]
 file = "config/cosmeticarmorreworked-client.toml"
 hash = "000b9988ecbe8b294dc3577d1867b09954e237775b3a252af45df0b4cb2c591c"
 
@@ -513,6 +521,10 @@ file = "config/create-common.toml"
 hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 
 [[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "b7510efb91bfc3fdad23399904833f798b7f1d021af78934aaa45c55ee6476f8"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "769f83a44bca6e49ceca9ef045d0a495cb842b6f9d94deb06615272ca0a367b2"
 
@@ -527,6 +539,14 @@ hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
 [[files]]
 file = "config/de/mari_023/ae2wtlib.json5"
 hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
+
+[[files]]
+file = "config/effortlessbuilding-client.toml"
+hash = "7786c6ff820526b225b98a541e3902e5e8c07b7e9e719003e742ec8528810d8a"
+
+[[files]]
+file = "config/effortlessbuilding-common.toml"
+hash = "2e8bc14001a53aa78fd7667eea23a144105f740f83fef3dfd5ddaa90f3d8bdd0"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -562,7 +582,7 @@ hash = "a740e00c1f8451767a0e07e228b931683151290a0728b2a4f44309f3a5449534"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0bcb0587f837404973a2e4a904a58adb0eb3756e22457ef5ffb9a149c4863457"
+hash = "59fe1f7e2508fdeb19c01b5098be71b5aba4f9de6a65c0201efec8cb7f7c226e"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -617,8 +637,44 @@ file = "config/immersive_optimization.json"
 hash = "85ea235fabba8da1a9a6551eebf320216dc7ed54c53d879fb3afa460ce1633a0"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "7770a5e61127813e517e2aff2ba593395e4de34925da73d8dcb5c44030972eed"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "ab0a834a8cd1d6a2c23d7e5087f6638554af5592b254dab116ac913b6883b332"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lucent-client.toml"
+hash = "addba3dcc9548b22945deed303f4d57d972eed0b17e3f2ee53f04accdd4a07e3"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
+
+[[files]]
+file = "config/mobtimizations/features-customization.toml"
+hash = "ac1aa9efe48323e72f31f7ecfa852fa371f31a4037efbb3ca369a2d195134b14"
+
+[[files]]
+file = "config/mobtimizations/features.toml"
+hash = "b2ed93b9b27df0ef06539814f3a94d695462a93b12220bb569c7905c5febdeaa"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -670,7 +726,7 @@ hash = "1e2947edfe05bf3763e248fad734a46e577f983a64c93ac7b3cdb767244db17a"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
+hash = "c15e8bc2e15de3248b51d2c7a582bb01a1235be123c24348c1393c6d9cefb137"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -691,6 +747,14 @@ hash = "340c8276773c2c7cd23bdedf2bb0c897c6bd854ac43ab2152c512c8a540860df"
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
 hash = "c28b85c07cc46de89e8d4e18db0386be880e7c62badaebc60973afa5f687632b"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "3ecfa54cbc0af2455ec7bd01670da92972d0ef341b442ea303242fb95bad7883"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "d180f1d14f5e848b68bf798aa6c46efb99074d15ae7c4532490e786f4049347c"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -763,6 +827,10 @@ hash = "a73212a23bab676fdc629005fc37f637cbb4afe5157d5fc6ff318fc3f6b9655a"
 [[files]]
 file = "config/watut-common.toml"
 hash = "323737c2bd12d1f45b3f7f110960d13c89a7048a58176d36f144948df340b02b"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
 
 [[files]]
 file = "config/watut-server.toml"
@@ -885,13 +953,18 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "e9cfb7374590ca30ace54658e4196c6b2f3883b89fdaa4c2cfb124da37021a55"
+file = "mods/connected-glass.pw.toml"
+hash = "f7d6e93ebda94f4e833741ca04527ee8758852ba44ba4a36de071936a2533bff"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "97de09e03269bb98e10bd9d2a18e7dffff337fda987f72a5af81f547683f44be"
 metafile = true
 
 [[files]]
@@ -902,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "e673e00e449d905f73a346967f7957a4c6cb4d932d525749a8b36f56bf09c819"
 metafile = true
 
 [[files]]
@@ -917,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "fdb68bcedaba7e10832e199b017d1fae8767b7292aaf940bccc646910267d96e"
 metafile = true
 
 [[files]]
@@ -975,8 +1058,18 @@ hash = "b4d64555fb1bcf9e3b4bf3554a5e77b04ed1db5ca8f11f647f5a458c6439d4c3"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9dfeec9e729c2599a39d005da996ced9ab683e4e5cc51d5d65b554e8b726a73f"
 metafile = true
 
 [[files]]
@@ -1015,6 +1108,21 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/lucent.pw.toml"
+hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
+metafile = true
+
+[[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "1623bcd1af853d7e4490c4c689668dea6c6bc238d5bb90c5c1113fa9f6cd1b5c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
 metafile = true
@@ -1032,11 +1140,6 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
-metafile = true
-
-[[files]]
-file = "mods/pal.pw.toml"
-hash = "9c3832ed95b11d4962823cc8db50f09c2f6d223c1d9b76c9160abced24aae19d"
 metafile = true
 
 [[files]]
@@ -1120,6 +1223,11 @@ hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
 metafile = true
 
 [[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "e76506ef6e7cdff1b9a17be152c656b55ba807a9d1bbd5fe3ba98b87a62a2b0e"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
@@ -1132,6 +1240,16 @@ metafile = true
 [[files]]
 file = "mods/thirst-was-taken.pw.toml"
 hash = "e778c9b567b10ec23770955530f48814466c4d1616d8b1db0065645635495d08"
+metafile = true
+
+[[files]]
+file = "mods/tinker-delight.pw.toml"
+hash = "7fe3c496758e54f1038be900a0b8fd31621c108a19bdcb8392c7fb2d52ad0d7f"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "ef691f94bafcddb82e719f73ba834aeca547ef895307bc7482188d04c5fcfe93"
 metafile = true
 
 [[files]]
