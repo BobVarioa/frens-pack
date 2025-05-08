@@ -582,7 +582,7 @@ hash = "a740e00c1f8451767a0e07e228b931683151290a0728b2a4f44309f3a5449534"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "59fe1f7e2508fdeb19c01b5098be71b5aba4f9de6a65c0201efec8cb7f7c226e"
+hash = "d0646044625e6e0a49403a63018ee1d0f511c6ff90751f7a2958bf8e62553fdb"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -858,11 +858,6 @@ hash = "3e339a6d4a830a05da9e13874b5243d8b0916fb0cc7078df11c3c17fd4a89141"
 metafile = true
 
 [[files]]
-file = "mods/alltheleaks.pw.toml"
-hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "1bd2a0c8cc2cd8a8db1698cfdfcb565e5399c6fcd954ae3452c619c401da1d7a"
 metafile = true
@@ -1125,11 +1120,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-hash = "5404b593f53403b432c3a0a334f93f361ba6851c0ea7b21a83dc59d3fd66b931"
 metafile = true
 
 [[files]]
