@@ -26,3 +26,4 @@ mods/.connector
 mods/*.jar
 .pw-install
 config/fabric/indigo-renderer.properties
+config/watut-item-arm-adjustments.json
