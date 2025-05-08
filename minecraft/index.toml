@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"
-
-[[files]]
-file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
-hash = "7cf44bc2b79d6798ac1b0bca7dc52ab570a14ade2c11eccf4e1272ce6e081001"
-
-[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "3e339a6d4a830a05da9e13874b5243d8b0916fb0cc7078df11c3c17fd4a89141"
 metafile = true
@@ -390,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinker-delight.pw.toml"
-hash = "7fe3c496758e54f1038be900a0b8fd31621c108a19bdcb8392c7fb2d52ad0d7f"
+hash = "c3cc0b757cf5ddb91e908acc121e4fd37b3896de603ee9aaf01edde522b97783"
 metafile = true
 
 [[files]]
