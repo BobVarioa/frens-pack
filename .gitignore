@@ -25,4 +25,6 @@ minecraft/mods/.index
 minecraft/mods/.connector
 minecraft/mods/*.jar
 !minecraft/mods/ThirstWasTaken-*.jar
+!minecraft/mods/tinkersdelight-*.jar
 minecraft/.pw-install
+minecraft/config
