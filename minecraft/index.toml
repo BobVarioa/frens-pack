@@ -429,3 +429,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/create-pipez.pw.toml"
+hash = "707206288e14264223567b168688472d1514f6376c53a02b603cae7845a268a7"
+metafile = true
