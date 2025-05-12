@@ -226,6 +226,16 @@ hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "7a657487f1f5f5b91b5b9620f7a968124a276e9a0418cbd05ee8598210d16248"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "303ccfe31a7917086084917dc401898eaea345e07d35d9567df015e62140716b"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "93acc43473eb283217895ae1c6ef4e9c30073aefcbfb2cab5ca9c6eeb842d9f4"
 metafile = true
@@ -429,6 +439,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Lopy-Create-Pipez.zip"
+hash = "d95bd4e390a7edb25c8c82f00a3095464d11fec672a0df778529690e9a115358"
 
 [[files]]
 file = "resourcepacks/create-pipez.pw.toml"

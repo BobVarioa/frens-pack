@@ -1,0 +1,13 @@
+name = 'Gravestone x Curios API Compat'
+filename = 'gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar'
+side = 'both'
+
+[download]
+hash = '8bafc1042269ed59128bb45030753530efc3d4ff84a59ec8d9cef37356ab4cd9'
+hash-format = 'sha256'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6201439
+project-id = 1139062
