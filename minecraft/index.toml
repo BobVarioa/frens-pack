@@ -126,6 +126,16 @@ hash = "e673e00e449d905f73a346967f7957a4c6cb4d932d525749a8b36f56bf09c819"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "53edc654c4f72a8078eb37745685c62d84c94de37dab8e084d4c80845395dc29"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "bfefab43afa2ccef76c7dc9eb071944d12d0acd3a54cac4e99028c5305ca7e66"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
