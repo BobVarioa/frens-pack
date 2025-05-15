@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "29b067ad8d97b7e226ef33b127e07db8d10ac18731a51c55ae76a5c31e74d0e4"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "40913dd340992cb232ed886157673decf3a02a0faa28bb05caf55906da4f7f79"
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "3e339a6d4a830a05da9e13874b5243d8b0916fb0cc7078df11c3c17fd4a89141"
 metafile = true
@@ -18,6 +26,16 @@ metafile = true
 [[files]]
 file = "mods/apoli-forge.pw.toml"
 hash = "20579b5c38be21bf4dcc5240d22a68a5bf2ecb31e5605523379f313a3431a261"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "0dfad0965b2163068781119a1fbf3d00e5c29605f7622b7b2812799350614309"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "3270674beba382db5c945dede53989ca69eca174d793e0c9728aad440a394084"
 metafile = true
 
 [[files]]
@@ -308,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4266d2f18ae6e36b09e4089a34f09b944553cc7409aecaa8bb4f061e6039a9af"
 metafile = true
 
 [[files]]

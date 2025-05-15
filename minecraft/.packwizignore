@@ -25,5 +25,8 @@ mods/.index
 mods/.connector
 mods/*.jar
 .pw-install
-config
+config/**/**.*
+!config/apotheosis/apotheosis.cfg
+!config/apotheosis/spawner.cfg
 defaultconfigs
+patchouli_data.json

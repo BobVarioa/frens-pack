@@ -6,6 +6,7 @@ minecraft/options.txt
 minecraft/servers.dat
 minecraft/servers.dat_old
 minecraft/usernamecache.json
+minecraft/patchouli_data.json
 minecraft/logs
 minecraft/crash-reports
 minecraft/ESM
@@ -19,7 +20,6 @@ minecraft/server-resource-packs
 minecraft/texturepacks
 minecraft/shaderpacks
 minecraft/screenshots
-minecraft/resourcepack
 minecraft/coremods
 minecraft/mods/.index
 minecraft/mods/.connector
@@ -27,4 +27,6 @@ minecraft/mods/*.jar
 !minecraft/mods/ThirstWasTaken-*.jar
 !minecraft/mods/tinkersdelight-*.jar
 minecraft/.pw-install
-minecraft/config
+minecraft/config/**/**.*
+!minecraft/config/apotheosis/apotheosis.cfg
+!minecraft/config/apotheosis/spawner.cfg
