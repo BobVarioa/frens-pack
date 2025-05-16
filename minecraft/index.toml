@@ -139,6 +139,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "2ed67c0171038c9be22d6417e872edd6283444f798c0bd9e6585cebddb80aa9a"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "e673e00e449d905f73a346967f7957a4c6cb4d932d525749a8b36f56bf09c819"
 metafile = true
@@ -319,6 +324,11 @@ hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "1313e9484dcd3b246aca636490d341b062c3e37defc05d5f1c8fca568d7be4e1"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
@@ -390,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "12e035e009074bcc975b753dd6f27d08def024a32ee14fa2a6a9d2da305e6785"
+hash = "7a1ef28708b53d70ac5ea451b5b0cc54a5ad72b8f3e90884d278372022550e17"
 metafile = true
 
 [[files]]
