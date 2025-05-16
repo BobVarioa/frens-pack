@@ -304,6 +304,11 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "8607cfa95bc5188740fe7ba14f9de6cac05758fbc5898efd7d2cb12f0d64f067"
+metafile = true
+
+[[files]]
 file = "mods/lucent.pw.toml"
 hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
 metafile = true
