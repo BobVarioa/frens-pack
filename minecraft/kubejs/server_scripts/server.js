@@ -70,3 +70,12 @@ ServerEvents.tags("item", (event) => {
     "create_central_kitchen:incomplete_mutton_wrap",
   ]);
 });
+
+ServerEvents.recipes((event) => {
+  event.shapeless(Item.of("trashcans:liquid_trash_can"), [
+    Item.of("fluidtrash:trash"),
+  ]);
+  event.shapeless(Item.of("fluidtrash:trash"), [
+    Item.of("trashcans:liquid_trash_can"),
+  ]);
+});

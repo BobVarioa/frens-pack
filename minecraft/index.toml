@@ -18,7 +18,7 @@ hash = "4e7dff4c911b86457bcf47a664e299089e455e09ff2325a906c7c42e606f13cb"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "79925d66f547542815e51b7226b95456563b85ea744389a135f1fab57aac6955"
+hash = "231089da4ad49956e84b9d3a3bb3802e7a64c8b3e74ef8ca66678d7587b1defd"
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
@@ -243,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/fluidlogged.pw.toml"
 hash = "f5a95ce155b2361934cc871a75c6026840155ad0f6f7f4c540f13d2db7e96371"
+metafile = true
+
+[[files]]
+file = "mods/fluidtrash.pw.toml"
+hash = "a8261c9f0af124d64093707fe0fbe03b4b3ce165af3ceb6e65f0aef2438dbd6c"
 metafile = true
 
 [[files]]
