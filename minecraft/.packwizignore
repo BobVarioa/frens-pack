@@ -30,3 +30,14 @@ config/**/**.*
 !config/apotheosis/spawner.cfg
 defaultconfigs
 patchouli_data.json
+kubejs/assets
+kubejs/data
+kubejs/probe
+kubejs/client_scripts
+kubejs/startup_scripts
+kubejs/probe
+kubejs/jsconfig.json
+kubejs/config/probejs.json
+.vscode
+rhino.local.properties
+kubejs/README.txt

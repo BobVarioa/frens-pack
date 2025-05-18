@@ -30,3 +30,12 @@ minecraft/.pw-install
 minecraft/config/**/**.*
 !minecraft/config/apotheosis/apotheosis.cfg
 !minecraft/config/apotheosis/spawner.cfg
+minecraft/kubejs/assets
+minecraft/kubejs/data
+minecraft/kubejs/probe
+minecraft/kubejs/client_scripts
+minecraft/kubejs/startup_scripts
+minecraft/kubejs/probe
+minecraft/kubejs/README.txt
+minecraft/.vscode
+minecraft/rhino.local.properties

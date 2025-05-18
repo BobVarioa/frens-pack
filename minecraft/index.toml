@@ -9,6 +9,18 @@ file = "config/apotheosis/spawner.cfg"
 hash = "40913dd340992cb232ed886157673decf3a02a0faa28bb05caf55906da4f7f79"
 
 [[files]]
+file = "kubejs/config/client.properties"
+hash = "cb20a1217627047ec7ab9f65e57bda45475a51bf8c6825260a2c82e8328b2298"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4e7dff4c911b86457bcf47a664e299089e455e09ff2325a906c7c42e606f13cb"
+
+[[files]]
+file = "kubejs/server_scripts/server.js"
+hash = "79925d66f547542815e51b7226b95456563b85ea744389a135f1fab57aac6955"
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "3e339a6d4a830a05da9e13874b5243d8b0916fb0cc7078df11c3c17fd4a89141"
 metafile = true
@@ -309,6 +321,11 @@ hash = "8607cfa95bc5188740fe7ba14f9de6cac05758fbc5898efd7d2cb12f0d64f067"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "a627065314bb1137c670cda4bf52038a2ef0830d6a1c39ca0f7324c0e50423a7"
+metafile = true
+
+[[files]]
 file = "mods/lucent.pw.toml"
 hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
 metafile = true
@@ -366,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "4fd737c9799d18923c472be9ee9e2899b1057365ba72938a56e1acd62e52bc79"
 metafile = true
 
 [[files]]
