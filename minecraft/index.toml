@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "271e7c1cf6102df645e40186e8941677c77eb22d9866651cc21565ed50f335f4"
+hash = "4530be1d164e6a2d10461ad462ba4cbfff2a41ebe92ae0bfd241216b9586fbd9"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "93acc43473eb283217895ae1c6ef4e9c30073aefcbfb2cab5ca9c6eeb842d9f4"
+hash = "d4b27dd2bbf561cc55a468312124385b269295390a410508b1e48a179bc39703"
 metafile = true
 
 [[files]]
