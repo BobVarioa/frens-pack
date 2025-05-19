@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluidtrash.pw.toml"
-hash = "a8261c9f0af124d64093707fe0fbe03b4b3ce165af3ceb6e65f0aef2438dbd6c"
+hash = "6b87bf3e7d5feeeff6d143bda506566fc9526353697f0c8018b0251e26a31880"
 metafile = true
 
 [[files]]
@@ -421,6 +421,11 @@ hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "911c2f3f9cd8882e621e33f73c915d0cbcb18430b0db9ca788ae4df9a303a56f"
+metafile = true
+
+[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
 metafile = true
@@ -482,12 +487,12 @@ metafile = true
 
 [[files]]
 file = "mods/thirst-was-taken.pw.toml"
-hash = "e778c9b567b10ec23770955530f48814466c4d1616d8b1db0065645635495d08"
+hash = "0617972e7f6923bc6ea3dce1675d3a9a634a8b2890b38df47763d7180f781656"
 metafile = true
 
 [[files]]
 file = "mods/tinker-delight.pw.toml"
-hash = "c3cc0b757cf5ddb91e908acc121e4fd37b3896de603ee9aaf01edde522b97783"
+hash = "71d7e9a37022925b0b14a4c892c741dbc17c433abcae8efc9e84b73e1a3f752f"
 metafile = true
 
 [[files]]
