@@ -39,5 +39,6 @@ kubejs/probe
 kubejs/jsconfig.json
 kubejs/config/probejs.json
 kubejs/README.txt
+simplebackups
 .vscode
 rhino.local.properties
