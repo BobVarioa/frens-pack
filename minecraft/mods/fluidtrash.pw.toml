@@ -5,4 +5,4 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "b2068a02fdab82ac970ae3e168b43809df50da1b"
-url = 'https://github.com/BobVarioa/frens-pack/raw/refs/heads/main/minecraft/mods/fluidtrash-1.0.jar'
+url = 'https://bobvarioa.com/minecraft/mods/fluidtrash-1.0.jar'

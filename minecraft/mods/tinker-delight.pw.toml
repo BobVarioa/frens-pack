@@ -3,6 +3,6 @@ filename = "tinkersdelight-1.2.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/BobVarioa/frens-pack/raw/refs/heads/main/minecraft/mods/tinkersdelight-1.2.0-forge-1.20.1.jar"
+url = "https://bobvarioa.com/minecraft/mods/tinkersdelight-1.2.0-forge-1.20.1.jar"
 hash-format = "sha1"
 hash = "2814bae8de4ffc93ea580d45e0c39226a2423161"
