@@ -91,6 +91,11 @@ hash = "e02edad65b21bdaa914dce1237d99e4a4d2d80e497e817e0cd77be87043c80be"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "1a290cfa154c1c0da4b604bcc6e0746e4cd2f255ae08be7fdb418538d0df08bf"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
