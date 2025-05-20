@@ -241,6 +241,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "92aa7d579143046c847f7f696f0ac67d2a67d206e03325d5dfb0fa667d495358"
+metafile = true
+
+[[files]]
 file = "mods/fluidlogged.pw.toml"
 hash = "f5a95ce155b2361934cc871a75c6026840155ad0f6f7f4c540f13d2db7e96371"
 metafile = true
@@ -306,6 +311,11 @@ hash = "222af346b8936d3273ec3fa5ad56a4fe44ecacf65230523b306d21e7128ad57e"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "4d43fb815455f6b430860c5e4c7c93d1663d2c934b068a6e653d630c5a9923e2"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
 metafile = true
@@ -358,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "db101c4cbd9bd560e2e9c83c01cd4f60d0fe023663d599a3bd71d49e74d2ca99"
 metafile = true
 
 [[files]]
