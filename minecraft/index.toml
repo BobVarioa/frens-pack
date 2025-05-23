@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildingpacks.pw.toml"
-hash = "938fe3216b303a89540bfbb947906bd4b556cfb1ffee9db9de3c4d2a018c8719"
+hash = "1a1d34c7dc7e891a4b959072a0a2ed7a18da32615d760a72283e460e31f9630b"
 metafile = true
 
 [[files]]
