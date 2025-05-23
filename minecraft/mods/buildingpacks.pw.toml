@@ -1,0 +1,8 @@
+name = "Building Packs"
+filename = "buildingpacks-com.bobvarioa.jar"
+side = "both"
+
+[download]
+url = "https://bobvarioa.com/minecraft/mods/buildingpacks-com.bobvarioa.jar"
+hash-format = "sha256"
+hash = "5e22c3c2041b3cb3fd5558eff8247af8009f74035f2f8ed082c44fef3578b098"
