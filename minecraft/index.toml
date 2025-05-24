@@ -336,6 +336,11 @@ hash = "d0132f8aa99555846a99e74eb276c1a9ba739acde0d232a0139a82bce08db5b1"
 metafile = true
 
 [[files]]
+file = "mods/json-things.pw.toml"
+hash = "158b564b653823fe31b5914adce6f994855b99864485eb012be96038c7768f0b"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "ef691f94bafcddb82e719f73ba834aeca547ef895307bc7482188d04c5fcfe93"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-katanas.pw.toml"
+hash = "67c88acf306e81ab0e68d2729fa56c0c69216b0b4a62e81c64f34930355311d6"
 metafile = true
 
 [[files]]
