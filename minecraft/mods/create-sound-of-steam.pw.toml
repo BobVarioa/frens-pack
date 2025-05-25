@@ -1,0 +1,13 @@
+name = 'Create: Sound of Steam'
+filename = 'pipeorgans-0.7.1+1.20.1.jar'
+side = 'both'
+
+[download]
+hash = '95cf0b44dc39b0a56ec38636c634c933810a0809'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6538088
+project-id = 1196142
