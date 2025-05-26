@@ -1,0 +1,13 @@
+name = 'Block Packs'
+filename = 'buildingpacks-com.bobvarioa.jar'
+side = 'both'
+
+[download]
+hash = '6e23665b97b535cb54aa798c557776456d6152b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 6578003
+project-id = 946415

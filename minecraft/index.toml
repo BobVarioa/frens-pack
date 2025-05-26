@@ -101,13 +101,13 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
-file = "mods/bridging-mod.pw.toml"
-hash = "4530be1d164e6a2d10461ad462ba4cbfff2a41ebe92ae0bfd241216b9586fbd9"
+file = "mods/block-packs.pw.toml"
+hash = "b97fb52ad4622c2d5ab97d08e13be647ebf497c461628c7ae6c3116e65f2481b"
 metafile = true
 
 [[files]]
-file = "mods/buildingpacks.pw.toml"
-hash = "a392fae57d324a8758e11530db03b4a1c78c323bdc09c71cc12b3281c3e868c0"
+file = "mods/bridging-mod.pw.toml"
+hash = "4530be1d164e6a2d10461ad462ba4cbfff2a41ebe92ae0bfd241216b9586fbd9"
 metafile = true
 
 [[files]]
