@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/block-packs.pw.toml"
-hash = "b97fb52ad4622c2d5ab97d08e13be647ebf497c461628c7ae6c3116e65f2481b"
+hash = "4785b2e651ce0d70da67070b00991f29cb6577d2d11bb96a6af1bba5ef8c1d91"
 metafile = true
 
 [[files]]

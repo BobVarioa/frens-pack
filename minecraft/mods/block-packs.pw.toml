@@ -3,11 +3,11 @@ filename = 'buildingpacks-com.bobvarioa.jar'
 side = 'both'
 
 [download]
-hash = '6e23665b97b535cb54aa798c557776456d6152b7'
+hash = 'a9634a1dcd2f854646b59e349ce954481c18498f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 
 [update]
 [update.curseforge]
-file-id = 6578003
+file-id = 6581821
 project-id = 946415
