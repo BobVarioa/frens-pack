@@ -176,6 +176,16 @@ hash = "53edc654c4f72a8078eb37745685c62d84c94de37dab8e084d4c80845395dc29"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "f217d9e1051a0204324489cc036eab87755aaf435ceb812c1570670940cfb443"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "83749b2384fde1d4af00fb7f16e982cd1cdda70ed7271907962dcd21561a4154"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "bfefab43afa2ccef76c7dc9eb071944d12d0acd3a54cac4e99028c5305ca7e66"
 metafile = true
