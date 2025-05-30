@@ -1,0 +1,8 @@
+name = "Origins + Sophisticated Storage Fix"
+filename = "originssophfix-1.0.jar"
+side = "both"
+
+[download]
+url = "https://bobvarioa.com/minecraft/mods/originssophfix-1.0.jar"
+hash-format = "sha256"
+hash = "a287ddd1deaf583706faf2fcb8ca8fe7cff56450389e5b726511b96ba5c2630b"

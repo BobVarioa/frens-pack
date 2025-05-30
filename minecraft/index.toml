@@ -411,6 +411,11 @@ hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
 metafile = true
 
 [[files]]
+file = "mods/origins-soph-fix.pw.toml"
+hash = "46e5b5938c95e33834a5cc60e7dee14d6d95c2a1a3f381d8e1d4d47b60b0a223"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4266d2f18ae6e36b09e4089a34f09b944553cc7409aecaa8bb4f061e6039a9af"
 metafile = true
