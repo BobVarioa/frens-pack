@@ -176,6 +176,11 @@ hash = "53edc654c4f72a8078eb37745685c62d84c94de37dab8e084d4c80845395dc29"
 metafile = true
 
 [[files]]
+file = "mods/create-drill-drain.pw.toml"
+hash = "9336735f5a7f9ec34cfe8db8f84a50ec67c61daab5bcbc110948ff4cce26d8e4"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "f217d9e1051a0204324489cc036eab87755aaf435ceb812c1570670940cfb443"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "ba6c13e70f06dde3b8d01d4143c22fea36ec035d7cd8834c7a82aa778a809467"
+metafile = true
+
+[[files]]
+file = "mods/fast-backups.pw.toml"
+hash = "a154dc077199b03628429d9376b4085ec31b328b008b2dbd05b152cb3794e25f"
 metafile = true
 
 [[files]]
@@ -471,11 +481,6 @@ hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
 
 [[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "911c2f3f9cd8882e621e33f73c915d0cbcb18430b0db9ca788ae4df9a303a56f"
-metafile = true
-
-[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
 metafile = true
@@ -583,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "fa14dd82bfb2f673028afc9dd49738ae9cd67cfdcb648670f6c9d483eed2505a"
 metafile = true
 
 [[files]]
