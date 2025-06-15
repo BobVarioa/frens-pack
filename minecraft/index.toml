@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-drill-drain.pw.toml"
-hash = "ec0e9020281a6bd331ad0a0496d19541ec25b7527c76a9b50610b377f125de5e"
+hash = "16e8d9d4213d57ccec7ad118c5757c0187a5be1a16b149b99d2a09d155fa6dcf"
 metafile = true
 
 [[files]]
