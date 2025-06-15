@@ -30,6 +30,7 @@ minecraft/mods/*.jar
 !minecraft/mods/fluidtrash-*.jar
 !minecraft/mods/originssophfix-*.jar
 !minecraft/mods/buildingpacks-*.jar
+!minecraft/mods/drill_drain-*.jar
 minecraft/.pw-install
 minecraft/config/**/**.*
 !minecraft/config/apotheosis/apotheosis.cfg

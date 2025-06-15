@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "97de09e03269bb98e10bd9d2a18e7dffff337fda987f72a5af81f547683f44be"
+hash = "291ab8aab4d2ddb92a24c0a51ce75f86ce004cf798bdc9555b9b02d0c7491786"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-drill-drain.pw.toml"
-hash = "9336735f5a7f9ec34cfe8db8f84a50ec67c61daab5bcbc110948ff4cce26d8e4"
+hash = "ec0e9020281a6bd331ad0a0496d19541ec25b7527c76a9b50610b377f125de5e"
 metafile = true
 
 [[files]]
