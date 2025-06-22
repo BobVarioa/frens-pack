@@ -3,6 +3,6 @@ filename = 'createenchantablemachinery-3.4.0+mc1.20.1-forge.jar'
 side = 'both'
 
 [download]
-url = "https://bobvarioa.com/minecraft/mods/createenchantablemachinery-3.4.0+mc1.20.1-forge.jar"
+url = "https://bobvarioa.com/minecraft/mods/createenchantablemachinery-3.4.0-mc1.20.1-forge.jar"
 hash-format = "sha256"
 hash = "3bee0bb5b5ca320085a53c7e1daa14199738ee26052a9a361bc9dc847c75f604"
