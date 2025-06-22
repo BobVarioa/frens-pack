@@ -181,7 +181,7 @@ hash = "2b77abdfd6b5ffbf8c5e22631e8881f2776ed9ad09e161d03bfaa34d9a1c16c4"
 
 [[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
-hash = "b557bde67142a5d46a4d352698875f9c8d29db46dd1219efe00f0ac48bb71c0b"
+hash = "4a7d13e110c39a4033ba83fb30b1159cb47ff2e3df85c10a69dd4fd8c6bdfba8"
 metafile = true
 
 [[files]]
