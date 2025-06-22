@@ -31,6 +31,7 @@ minecraft/mods/*.jar
 !minecraft/mods/originssophfix-*.jar
 !minecraft/mods/buildingpacks-*.jar
 !minecraft/mods/drill_drain-*.jar
+!minecraft/mods/createenchantablemachinery-*.jar
 minecraft/.pw-install
 minecraft/config/**/**.*
 !minecraft/config/apotheosis/apotheosis.cfg
