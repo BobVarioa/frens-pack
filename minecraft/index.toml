@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "291ab8aab4d2ddb92a24c0a51ce75f86ce004cf798bdc9555b9b02d0c7491786"
+hash = "1576a3211f9e057dcda116bc9d74f0410e1fa55e1f9a85f0f8ff8569da001e7b"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "53edc654c4f72a8078eb37745685c62d84c94de37dab8e084d4c80845395dc29"
+hash = "86e4a9bf28e51b1f1caf9c6680f8970067b7a9e3ab8bc75bfdd7647a3e3ec70a"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "f217d9e1051a0204324489cc036eab87755aaf435ceb812c1570670940cfb443"
+hash = "67d76025a7cef4d0a880f8e2c02009d5568aeec97a4956fa4570911bd6edb34e"
 metafile = true
 
 [[files]]
@@ -403,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "15b99276cdbace9f9c0607456c6365b47e97bcaa818a577984ffe10d7fc62794"
 metafile = true
 
 [[files]]
